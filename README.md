@@ -8,6 +8,7 @@ Investors from the "Shut Up and Take My Money" fund, seeking new ventures, decid
 
 Third Project - Metanprombank:
 The work was carried out for the product management department of Metanprombank. The bank has recently encountered an increased level of outflow, and would like to find out what is causing this. A full analysis of the provided data was carried out, including exploratory analysis, statistical testing of hypotheses and the construction of visual graphs. As a result, 3 segments of problematic (prone to churn) clients were identified, for which recommendations were given.
+Tableau link: https://public.tableau.com/app/profile/roman.woodkrief/viz/Metanprombank_17031703743250/Story1
 
 Project's Status: Completed
 
